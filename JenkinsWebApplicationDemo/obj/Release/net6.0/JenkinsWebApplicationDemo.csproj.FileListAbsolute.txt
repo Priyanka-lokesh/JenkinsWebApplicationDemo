@@ -121,3 +121,4 @@ C:\Workspace\dotnetproject\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\o
 C:\Workspace\dotnetproject\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\JenkinsWebApplicationDemo.pdb
 C:\Workspace\dotnetproject\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\JenkinsWebApplicationDemo.genruntimeconfig.cache
 C:\Workspace\dotnetproject\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\ref\JenkinsWebApplicationDemo.dll
+C:\Workspace\dotnetproject\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\bin\Release\net6.0\Readme.txt
