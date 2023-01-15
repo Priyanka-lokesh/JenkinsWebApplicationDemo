@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>D:\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\bin\Release\net6.0\publish\</_PublishTargetUrl>
-    <History>True|2023-01-15T14:13:50.6749985Z;True|2023-01-15T19:43:02.3574445+05:30;True|2023-01-15T19:40:24.7609551+05:30;True|2023-01-10T16:43:35.7335815+05:30;True|2022-09-17T13:48:18.1286898+05:30;</History>
+    <History>True|2023-01-15T14:23:41.0271929Z;True|2023-01-15T19:53:10.9599521+05:30;True|2023-01-15T19:51:43.4092435+05:30;True|2023-01-15T19:43:50.6749985+05:30;True|2023-01-15T19:43:02.3574445+05:30;True|2023-01-15T19:40:24.7609551+05:30;True|2023-01-10T16:43:35.7335815+05:30;True|2022-09-17T13:48:18.1286898+05:30;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

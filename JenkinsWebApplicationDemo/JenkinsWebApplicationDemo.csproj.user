@@ -5,6 +5,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>JenkinsWebApplicationDemo</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Workspace\dotnetproject\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Workspace\dotnetproject\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\Properties\PublishProfiles\FolderProfile2.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
